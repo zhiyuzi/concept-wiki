@@ -1,4 +1,4 @@
-# concept-wiki
+<h1 align="center">concept-wiki</h1>
 
 <p align="center">
   <em>A pattern for building personal knowledge bases using LLMs — with a structured ontology at its core.</em>
