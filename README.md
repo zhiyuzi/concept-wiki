@@ -1,8 +1,14 @@
 # concept-wiki
 
-> A pattern for building personal knowledge bases using LLMs — with a structured ontology at its core.
+<p align="center">
+  <em>A pattern for building personal knowledge bases using LLMs — with a structured ontology at its core.</em>
+</p>
 
-[中文版](README.zh.md)
+<p align="center">
+  <a href="README.zh.md">中文版</a> ·
+  <a href="concept-wiki.en.md">Framework Doc</a> ·
+  <a href="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f">Inspired by llm-wiki</a>
+</p>
 
 ---
 

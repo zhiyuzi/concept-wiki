@@ -1,8 +1,14 @@
 # concept-wiki
 
-> 一套以结构化本体为核心、用 LLM 构建个人知识库的框架。
+<p align="center">
+  <em>一套以结构化本体为核心、用 LLM 构建个人知识库的框架。</em>
+</p>
 
-[English](README.md)
+<p align="center">
+  <a href="README.md">English</a> ·
+  <a href="concept-wiki.md">框架文档</a> ·
+  <a href="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f">灵感来源 llm-wiki</a>
+</p>
 
 ---
 
